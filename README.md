@@ -1,6 +1,6 @@
 # jet-helper
 
-[Jet](github.com/CloudyKit/jet) is a template engine developed to be easy to use, powerful, dynamic, yet secure and very fast.
+[Jet](https://github.com/CloudyKit/jet) is a template engine developed to be easy to use, powerful, dynamic, yet secure and very fast.
 `jet-helper` is a package to utilize Jet similarly to Golang text/template and html/template.
 
 ## Usage Sample
